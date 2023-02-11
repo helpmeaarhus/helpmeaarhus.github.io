@@ -1,5 +1,5 @@
 ---
-layout:   helpmeaarhus
+layout:   default
 title:    'Hjælp! Hjemløs..!'
 ---
 
