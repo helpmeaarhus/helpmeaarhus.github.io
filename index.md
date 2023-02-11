@@ -67,8 +67,4 @@ Soundtracks
 [Helvedes Engle](https://youtu.be/9pH4W9b8upk)
 [CA$H](https://youtu.be/oDd32K-mOVw)  
 
-Organisering
-----
-Hijacked by [KFUM](https://kfum.se) #unofficial !!  
-  
-(c) 20xx SmidDetIndMedEnSkovl.nu
+
