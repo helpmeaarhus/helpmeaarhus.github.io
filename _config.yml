@@ -1,0 +1,12 @@
+# Site settings
+title:       'Hjælp mig, Århus !!'
+email:
+url:         'https://helpmeaarhus.github.io'
+baseurl:
+twitter_username:
+github_username:  jquorning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+

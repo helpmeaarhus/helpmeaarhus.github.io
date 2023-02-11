@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="da-DK" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_center html_bottom_nav_header html_menu_right html_custom html_header_sticky_disabled html_header_shrinking_disabled html_mobile_menu_tablet html_header_searchicon_disabled html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_minimal_header html_elegant-blog html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_652 av-no-preview html_text_menu_active ">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Forside - Hjælp til Hjemløse</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v11.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://xn--hjlptilhjemlse-1ib21a.dk/" />
+<meta property="og:locale" content="da_DK" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Forside - Hjælp til Hjemløse" />
+<meta property="og:description" content="Vi hjælper med direkte og hurtig hjælp til hjemløse og udsatte &nbsp; &nbsp; Vi hjælper hjemløse og udsatte i Aarhus &nbsp; &nbsp; &nbsp; &nbsp; Kontakt os på telefon:22 210 779 Hjælp til Hjemløse er støttet af Hjælp os med at hjælpe BLIV MEDLEM Dit medlemskab er vigtigt og koster kun 100 kr. om året GIV &hellip;" />
+<meta property="og:url" content="http://xn--hjlptilhjemlse-1ib21a.dk/" />
+<meta property="og:site_name" content="Hjælp til Hjemløse" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://xn--hjlptilhjemlse-1ib21a.dk/#website","url":"http://xn--hjlptilhjemlse-1ib21a.dk/","name":"Hj\u00e6lp til Hjeml\u00f8se","potentialAction":{"@type":"SearchAction","target":"http://xn--hjlptilhjemlse-1ib21a.dk/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"http://xn--hjlptilhjemlse-1ib21a.dk/#primaryimage","url":"http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2021/04/Oak-logo.png","width":260,"height":104},{"@type":"WebPage","@id":"http://xn--hjlptilhjemlse-1ib21a.dk/#webpage","url":"http://xn--hjlptilhjemlse-1ib21a.dk/","inLanguage":"da-DK","name":"Forside - Hj\u00e6lp til Hjeml\u00f8se","isPartOf":{"@id":"http://xn--hjlptilhjemlse-1ib21a.dk/#website"},"primaryImageOfPage":{"@id":"http://xn--hjlptilhjemlse-1ib21a.dk/#primaryimage"},"datePublished":"2015-10-30T12:45:52+00:00","dateModified":"2022-02-02T11:15:00+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Hjælp til Hjemløse &raquo; Feed" href="http://xn--hjlptilhjemlse-1ib21a.dk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hjælp til Hjemløse &raquo;-kommentar-feed" href="http://xn--hjlptilhjemlse-1ib21a.dk/comments/feed/" />
+
+<!-- google webfont font replacement -->
+<link rel='stylesheet' id='avia-google-webfont' href='//fonts.googleapis.com/css?family=Lato:300,400,700%7CLora' type='text/css' media='all'/> 
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/xn--hjlptilhjemlse-1ib21a.dk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.17"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/css/dist/block-library/style.min.css?ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/plugins/bb-plugin/fonts/fontawesome/css/all.min.css?ver=2.2.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/plugins/bb-plugin/fonts/fontawesome/css/v4-shims.min.css?ver=2.2.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-652-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/bb-plugin/cache/652-layout.css?ver=f9be5b5a96003c45af580a2c73497ce2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.6-78496d1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-grid-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/css/grid.css?ver=4.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/css/base.css?ver=4.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/css/layout.css?ver=4.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/css/shortcodes.css?ver=4.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.2.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-print-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/css/print.css?ver=4.2.6' type='text/css' media='print' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/dynamic_avia/enfold.css?ver=5bf41c047b824' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/css/custom.css?ver=4.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-merged-styles-css'  href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/dynamic_avia/avia-merged-styles-3327900c3a798110a8414071c0cd4262.css?ver=5.2.17' type='text/css' media='all' />
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/js/avia-compat.js?ver=4.2.6'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"da","strings":{"mejs.install-flash":"Du bruger en browser, som ikke har Flash-afspiller aktiveret eller installeret. Sl\u00e5 venligst Flash-afspiller til eller hent den seneste version fra https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Deaktiver fuldsk\u00e6rmsvisning","mejs.fullscreen-on":"Aktiver fuldsk\u00e6rmsvisning","mejs.download-video":"Download video","mejs.fullscreen":"Fuldsk\u00e6rm","mejs.time-jump-forward":["Spring 1 sekund frem","Spring %1 sekunder fremad"],"mejs.loop":"Skift l\u00f8kke","mejs.play":"Afspil","mejs.pause":"Pause","mejs.close":"Luk","mejs.time-slider":"Tidskyder","mejs.time-help-text":"Brug venstre\/h\u00f8jre piletaster for at spole 1 sekund frem, og op\/ned piletasterne for at spole 10 sekunder frem.","mejs.time-skip-back":["Spring 1 sekund tilbage","Spring %1 sekunder tilbage"],"mejs.captions-subtitles":"Billedtekster\/Undertekster","mejs.captions-chapters":"Kapitler","mejs.none":"Ingen","mejs.mute-toggle":"D\u00e6mper","mejs.volume-help-text":"Brug op\/ned piletasterne for at skrue op eller ned for lyden.","mejs.unmute":"Annuller d\u00e6mper","mejs.mute":"Mute","mejs.volume-slider":"Lydstyrkeskyder","mejs.video-player":"Videoafspiller","mejs.audio-player":"Lydafspiller","mejs.ad-skip":"Spring reklame over","mejs.ad-skip-info":["Spring over om 1 sekund","Spring over om %1 sekunder"],"mejs.source-chooser":"Kilde-v\u00e6lger","mejs.stop":"Stop","mejs.speed-rate":"Hastighed","mejs.live-broadcast":"Live-udsendelse","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albansk","mejs.arabic":"Arabisk","mejs.belarusian":"Hviderussisk","mejs.bulgarian":"Bulgarisk","mejs.catalan":"Katalansk","mejs.chinese":"Kinesisk","mejs.chinese-simplified":"Kinesisk (Forenklet)","mejs.chinese-traditional":"Kinesisk (Traditionelt)","mejs.croatian":"Kroatisk","mejs.czech":"Tjekkisk","mejs.danish":"Dansk","mejs.dutch":"Hollandsk","mejs.english":"Engelsk","mejs.estonian":"Estisk","mejs.filipino":"Filippinsk","mejs.finnish":"Finsk","mejs.french":"Fransk","mejs.galician":"Galicisk","mejs.german":"Tysk","mejs.greek":"Gr\u00e6sk","mejs.haitian-creole":"Haitisk Kreolsk","mejs.hebrew":"Hebraisk","mejs.hindi":"Hindi","mejs.hungarian":"Ungarsk","mejs.icelandic":"Islandsk","mejs.indonesian":"Indonesisk","mejs.irish":"Irsk","mejs.italian":"Italiensk","mejs.japanese":"Japansk","mejs.korean":"Koreansk","mejs.latvian":"Lettisk","mejs.lithuanian":"Litauisk","mejs.macedonian":"Makedonsk","mejs.malay":"Malay","mejs.maltese":"Maltesisk","mejs.norwegian":"Norsk","mejs.persian":"Persisk","mejs.polish":"Polsk","mejs.portuguese":"Portugisisk","mejs.romanian":"Romansk","mejs.russian":"Russisk","mejs.serbian":"Serbisk","mejs.slovak":"Slovakisk","mejs.slovenian":"Slovensk","mejs.spanish":"Spansk","mejs.swahili":"Swahili","mejs.swedish":"Svensk","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Tyrkisk","mejs.ukrainian":"Ukrainsk","mejs.vietnamese":"Vietnamesisk","mejs.welsh":"Walisisk","mejs.yiddish":"Jiddisch"}};
+</script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.2.17'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<link rel='https://api.w.org/' href='http://xn--hjlptilhjemlse-1ib21a.dk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://xn--hjlptilhjemlse-1ib21a.dk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.17" />
+<link rel='shortlink' href='http://xn--hjlptilhjemlse-1ib21a.dk/' />
+<link rel="alternate" type="application/json+oembed" href="http://xn--hjlptilhjemlse-1ib21a.dk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fxn--hjlptilhjemlse-1ib21a.dk%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://xn--hjlptilhjemlse-1ib21a.dk/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fxn--hjlptilhjemlse-1ib21a.dk%2F&#038;format=xml" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Hjælp til Hjemløse RSS2 Feed" href="http://xn--hjlptilhjemlse-1ib21a.dk/feed/" />
+<link rel="pingback" href="http://xn--hjlptilhjemlse-1ib21a.dk/xmlrpc.php" />
+
+<style type='text/css' media='screen'>
+ #top #header_main > .container, #top #header_main > .container .main_menu  .av-main-nav > li > a, #top #header_main #menu-item-shop .cart_dropdown_link{ height:100px; line-height: 100px; }
+ .html_top_nav_header .av-logo-container{ height:100px;  }
+ .html_header_top.html_header_sticky #top #wrap_all #main{ padding-top:150px; } 
+</style>
+<!--[if lt IE 9]><script src="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+
+
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.2.6
+Installed: enfold
+AviaFramework Version: 4.6
+AviaBuilder Version: 0.9.5
+ML:2048-PU:16-PLA:8
+WP:5.2.17
+Updates: disabled
+-->
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+</head>
+
+
+
+
+<body id="top" class="home page-template-default page page-id-652 stretched lato lora no_sidebar_border fl-builder" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_center av_bottom_nav_header av_menu_right av_custom av_header_sticky_disabled av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_tablet av_header_searchicon_disabled av_header_unstick_top_disabled av_seperator_big_border av_minimal_header'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='http://xn--hjlptilhjemlse-1ib21a.dk/'><img height='100' width='300' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/HTHLogoNavn-1-300x78.png' alt='Hjælp til Hjemløse' /></a></span></div></div><div id='header_main_alternate' class='container_wrap'><div class='container'><nav class='main_menu' data-selectname='Vælg en side'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-652 current_page_item menu-item-top-level menu-item-top-level-1"><a href="http://xn--hjlptilhjemlse-1ib21a.dk/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Forside</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-2"><a href="http://xn--hjlptilhjemlse-1ib21a.dk/about/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Om os</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="http://xn--hjlptilhjemlse-1ib21a.dk/contact/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Kontakt</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="http://xn--hjlptilhjemlse-1ib21a.dk/sponsorer/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Fonde og sponsorer</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="http://xn--hjlptilhjemlse-1ib21a.dk/bliv-frivillig-2/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Bliv Frivillig</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="http://xn--hjlptilhjemlse-1ib21a.dk/her-hjaelper-vi-2/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Her hjælper vi</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+					        <span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+					        </span>
+							</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='0'>
+
+	<div  class='main_color container_wrap_first container_wrap fullsize'   ><div class='container' ><main  role="main" itemprop="mainContentOfPage"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-652'><div class='entry-content-wrapper clearfix'><div class="fl-builder-content fl-builder-content-652 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="652"><div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-5bf09cfbb0d1d" data-node="5bf09cfbb0d1d">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5bf1895adf1d3" data-node="5bf1895adf1d3">
+			<div class="fl-col fl-node-5bf1895adf307" data-node="5bf1895adf307">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5bf09cfbb096b" data-node="5bf09cfbb096b">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+		<span class="fl-heading-text">Vi hjælper med direkte og hurtig hjælp til hjemløse og udsatte</span>
+	</h1>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5bf09cfbb0c71" data-node="5bf09cfbb0c71">
+			<div class="fl-col fl-node-5bf09cfbb0a64" data-node="5bf09cfbb0a64">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-rich-text fl-node-5bf09cfbb0cae" data-node="5bf09cfbb0cae">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h6 style="text-align: center;"><span style="font-size: 30px;">Vi hjælper hjemløse og udsatte i Aarhus</span></h6>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5bf1b1ecc29ec" data-node="5bf1b1ecc29ec">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5bf1b1ecc8b29" data-node="5bf1b1ecc8b29">
+			<div class="fl-col fl-node-5bf1b1ecc8cdc" data-node="5bf1b1ecc8cdc">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-callout fl-node-5bf1b156b347b" data-node="5bf1b156b347b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-center fl-callout-has-photo fl-callout-photo-above-title">
+		<div class="fl-callout-content">
+		<h1 class="fl-callout-title"><span class="fl-callout-title-text">Kontakt os på telefon:<br />22 210 779</span></h1>		<div class="fl-callout-text-wrap">
+			<div class="fl-callout-text"></div>		</div>
+	</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-callout fl-node-5bf39455931e5" data-node="5bf39455931e5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-center fl-callout-has-photo fl-callout-photo-above-title">
+		<div class="fl-callout-content">
+		<h3 class="fl-callout-title"><span class="fl-callout-title-text"></span></h3>		<div class="fl-callout-text-wrap">
+			<div class="fl-callout-text"></div>		</div>
+	</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5bf09cfbb0d96" data-node="5bf09cfbb0d96">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5bf09cfbb0ad9" data-node="5bf09cfbb0ad9">
+			<div class="fl-col fl-node-5bf09cfbb08f5" data-node="5bf09cfbb08f5">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5bf09cfbb062c" data-node="5bf09cfbb062c">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Hjælp til Hjemløse er støttet af</span>
+	</h3>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-606ddc054978c" data-node="606ddc054978c">
+			<div class="fl-col fl-node-606ddc054980d" data-node="606ddc054980d">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-callout fl-node-606ddb6774d53" data-node="606ddb6774d53">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-center fl-callout-has-photo fl-callout-photo-above-title">
+		<div class="fl-callout-content">
+		<div class="fl-callout-photo"><div class="fl-photo fl-photo-align-" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://oakfnd.dk/" target="_blank" rel="noopener"  itemprop="url">
+				<img class="fl-photo-img wp-image-1007 size-full" src="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2021/04/Oak-logo.png" alt="Oak logo" itemprop="image" height="104" width="260" title="Oak logo"  />
+				</a>
+					</div>
+	</div>
+</div><h3 class="fl-callout-title"><span><a href="https://oakfnd.dk/" target="_blank" class="fl-callout-title-link fl-callout-title-text"></a></span></h3>		<div class="fl-callout-text-wrap">
+			<div class="fl-callout-text"></div>		</div>
+	</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-606ddcb8798e9" data-node="606ddcb8798e9">
+			<div class="fl-col fl-node-606ddcb87995e" data-node="606ddcb87995e">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-callout fl-node-606ddbe2b69d7" data-node="606ddbe2b69d7">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-center fl-callout-has-photo fl-callout-photo-above-title">
+		<div class="fl-callout-content">
+		<div class="fl-callout-photo"><div class="fl-photo fl-photo-align-" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://www.tryghed.dk/" target="_blank" rel="noopener"  itemprop="url">
+				<img class="fl-photo-img wp-image-1006 size-full" src="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2021/04/TrygFonden-logo.png" alt="TrygFonden logo" itemprop="image" height="154" width="327" title="TrygFonden logo" srcset="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2021/04/TrygFonden-logo.png 327w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2021/04/TrygFonden-logo-300x141.png 300w" sizes="(max-width: 327px) 100vw, 327px" />
+				</a>
+					</div>
+	</div>
+</div><h3 class="fl-callout-title"><span><a href="https://www.tryghed.dk/" target="_blank" class="fl-callout-title-link fl-callout-title-text"></a></span></h3>		<div class="fl-callout-text-wrap">
+			<div class="fl-callout-text"></div>		</div>
+	</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5bf1b2acd1ee0" data-node="5bf1b2acd1ee0">
+			<div class="fl-col fl-node-5bf1b2acd205c fl-col-small" data-node="5bf1b2acd205c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5bf09cfbb0808" data-node="5bf09cfbb0808">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img class="fl-photo-img wp-image-790 size-full" src="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/DK-Socialstr.-logo-RGB-grå-krone-STOR.png" alt="DK-Socialstr.-logo RGB grå krone STOR" itemprop="image" height="323" width="947" title="DK-Socialstr.-logo RGB grå krone STOR" srcset="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/DK-Socialstr.-logo-RGB-grå-krone-STOR.png 947w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/DK-Socialstr.-logo-RGB-grå-krone-STOR-300x102.png 300w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/DK-Socialstr.-logo-RGB-grå-krone-STOR-768x262.png 768w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/DK-Socialstr.-logo-RGB-grå-krone-STOR-705x240.png 705w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/DK-Socialstr.-logo-RGB-grå-krone-STOR-450x153.png 450w" sizes="(max-width: 947px) 100vw, 947px" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5bf1b2acd20a6 fl-col-small" data-node="5bf1b2acd20a6">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5bf09cfbb087d" data-node="5bf09cfbb087d">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img class="fl-photo-img wp-image-793 size-full" src="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/aak_02_venstre_70.png" alt="aak_02_venstre_70" itemprop="image" height="288" width="565" title="aak_02_venstre_70" srcset="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/aak_02_venstre_70.png 565w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/aak_02_venstre_70-300x153.png 300w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2018/11/aak_02_venstre_70-450x229.png 450w" sizes="(max-width: 565px) 100vw, 565px" />
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5bf1b2acd212e fl-col-small" data-node="5bf1b2acd212e">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-photo fl-node-5bf09cfbb0d57" data-node="5bf09cfbb0d57">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<a href="https://www.friluftsraadet.dk" target="_self" itemprop="url">
+				<img class="fl-photo-img wp-image-945 size-full" src="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2020/01/FR_logo_byline_RGB_A4.png" alt="FR_logo_byline_RGB_A4" itemprop="image" height="354" width="576" title="FR_logo_byline_RGB_A4" srcset="http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2020/01/FR_logo_byline_RGB_A4.png 576w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2020/01/FR_logo_byline_RGB_A4-300x184.png 300w, http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/2020/01/FR_logo_byline_RGB_A4-450x277.png 450w" sizes="(max-width: 576px) 100vw, 576px" />
+				</a>
+					</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5bf09cfbb0a9f" data-node="5bf09cfbb0a9f">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5bf09cfbb06a8" data-node="5bf09cfbb06a8">
+			<div class="fl-col fl-node-5bf09cfbb066c" data-node="5bf09cfbb066c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5bf09cfbb0ce2" data-node="5bf09cfbb0ce2">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Hjælp os med at hjælpe</span>
+	</h3>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5bf09cfbb09a8" data-node="5bf09cfbb09a8">
+			<div class="fl-col fl-node-5bf09cfbb0b13 fl-col-small" data-node="5bf09cfbb0b13">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-callout fl-node-5bf09cfbb0c37" data-node="5bf09cfbb0c37">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+		<div class="fl-callout-content">
+		
+	<span class="fl-icon">
+				<i class="far fa-laugh" aria-hidden="true"></i>
+			</span>
+			<div id="fl-icon-text-" class="fl-icon-text fl-icon-text-wrap fl-icon-text-empty">
+											</div>
+	
+<h3 class="fl-callout-title"><span class="fl-callout-title-text">BLIV MEDLEM</span></h3>		<div class="fl-callout-text-wrap">
+			<div class="fl-callout-text"><p>Dit medlemskab er vigtigt<br />
+og koster kun 100 kr. om året</p>
+</div>		</div>
+	</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5bf09cfbb0b4c fl-col-small" data-node="5bf09cfbb0b4c">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-callout fl-node-5bf09cfbb0bc3" data-node="5bf09cfbb0bc3">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+		<div class="fl-callout-content">
+		
+	<span class="fl-icon">
+								<a href="http://xn--hjlptilhjemlse-1ib21a.dk/contact/" target="_self" aria-label="link to http://xn--hjlptilhjemlse-1ib21a.dk/contact/">
+							<i class="far fa-money-bill-alt" aria-hidden="true"></i>
+				</a>
+			</span>
+			<div id="fl-icon-text-" class="fl-icon-text fl-icon-text-empty">
+						<a href="http://xn--hjlptilhjemlse-1ib21a.dk/contact/" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+												</a>
+					</div>
+	
+<h3 class="fl-callout-title"><span><a href="http://xn--hjlptilhjemlse-1ib21a.dk/contact/" target="_self" class="fl-callout-title-link fl-callout-title-text">GIV  EN GAVE</a></span></h3>		<div class="fl-callout-text-wrap">
+			<div class="fl-callout-text"><p>Vi kan modtage gaver<br />
+via MobilePay og bankoverførsel</p>
+<p>&nbsp;</p>
+<p>Mobilepay: 720223</p>
+</div>		</div>
+	</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+			<div class="fl-col fl-node-5bf09cfbb0931 fl-col-small" data-node="5bf09cfbb0931">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-callout fl-node-5bf09cfbb0bfd" data-node="5bf09cfbb0bfd">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+		<div class="fl-callout-content">
+		
+	<span class="fl-icon">
+								<a href="http://xn--hjlptilhjemlse-1ib21a.dk/contact/" target="_self" aria-label="link to http://xn--hjlptilhjemlse-1ib21a.dk/contact/">
+							<i class="fas fa-people-carry" aria-hidden="true"></i>
+				</a>
+			</span>
+			<div id="fl-icon-text-" class="fl-icon-text fl-icon-text-empty">
+						<a href="http://xn--hjlptilhjemlse-1ib21a.dk/contact/" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+												</a>
+					</div>
+	
+<h3 class="fl-callout-title"><span><a href="http://xn--hjlptilhjemlse-1ib21a.dk/contact/" target="_self" class="fl-callout-title-link fl-callout-title-text">HJÆLP OS SOM FRIVILLIG</a></span></h3>		<div class="fl-callout-text-wrap">
+			<div class="fl-callout-text"><p>Vi har altid brug for frivillige til at uddele mad, kontakt med de hjemløse eller andet</p>
+</div>		</div>
+	</div>
+	</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5bf412cecaf45" data-node="5bf412cecaf45">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5bf41481c6306" data-node="5bf41481c6306">
+			<div class="fl-col fl-node-5bf41481c63ed" data-node="5bf41481c63ed">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-heading fl-node-5bf41481c6273" data-node="5bf41481c6273">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Bliv medlem ved at udfylde formularen. Medlemskab koster fra 100 kr. om året.</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5e3f2064834d5" data-node="5e3f2064834d5">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><div role="form" class="wpcf7" id="wpcf7-f679-p652-o1" lang="da-DK" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f679-p652-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="679" />
+<input type="hidden" name="_wpcf7_version" value="5.1.4" />
+<input type="hidden" name="_wpcf7_locale" value="da_DK" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f679-p652-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="652" />
+</div>
+<p>Dit navn (skal udfyldes)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Din e-mail (skal udfyldes)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p>Telefon<br />
+    <span class="wpcf7-form-control-wrap TelefonNummer"><input type="tel" name="TelefonNummer" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" /></span> </p>
+<p>Emne<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </p>
+<p><span class="wpcf7-form-control-wrap checkbox-274"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><input type="checkbox" name="checkbox-274[]" value="100 dkk per år" /><span class="wpcf7-list-item-label">100 dkk per år</span></span><span class="wpcf7-list-item last"><input type="checkbox" name="checkbox-274[]" value="100 dkk per måned" /><span class="wpcf7-list-item-label">100 dkk per måned</span></span></span></span></p>
+<p>Din besked<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></p>
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5bf412cecf15e" data-node="5bf412cecf15e">
+			<div class="fl-col fl-node-5bf412cecf270" data-node="5bf412cecf270">
+	<div class="fl-col-content fl-node-content">
+		</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5bf09cfbb0e13" data-node="5bf09cfbb0e13">
+	<div class="fl-row-content-wrap">
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5bf09cfbb0e88" data-node="5bf09cfbb0e88">
+			<div class="fl-col fl-node-5bf09cfbb0e4e" data-node="5bf09cfbb0e4e">
+	<div class="fl-col-content fl-node-content">
+	<div class="fl-module fl-module-icon-group fl-node-5bf09cfbb0ec1 fl-animation fl-fade-in" data-node="5bf09cfbb0ec1" data-animation-delay="0.0">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-group fl-icon-group-center">
+
+	<span class="fl-icon">
+								<a href="https://www.facebook.com/hjaelptilhjemlose/" target="_blank" aria-label="link to https://www.facebook.com/hjaelptilhjemlose/" rel="noopener" >
+							<i class="fa fa-facebook" aria-hidden="true"></i>
+				</a>
+			</span>
+	
+</div>
+	</div>
+</div>
+	</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div></div></div></main><!-- close content main element --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element -->				<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'http://xn--hjlptilhjemlse-1ib21a.dk/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=2.2.4.5'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/bb-plugin/cache/652-layout.js?ver=f9be5b5a96003c45af580a2c73497ce2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/xn--hjlptilhjemlse-1ib21a.dk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.9.1'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/js/avia.js?ver=4.2.6'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/js/shortcodes.js?ver=4.2.6'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.2.6'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.2.17'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/comment-reply.min.js?ver=5.2.17'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-content/uploads/dynamic_avia/avia-footer-scripts-9c1812a00b6b175ecb6479dd71a89a94.js?ver=5.2.17'></script>
+<script type='text/javascript' src='http://xn--hjlptilhjemlse-1ib21a.dk/wp-includes/js/wp-embed.min.js?ver=5.2.17'></script>
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+</body>
+</html>
