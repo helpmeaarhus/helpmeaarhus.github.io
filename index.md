@@ -1,6 +1,6 @@
 ---
 layout:   default
-title:    'Hjælp! Hjemløs..!'
+title:    Hjælp til Hjemløse
 ---
 
 [Genbrugsbutik](http://hjælptilhjemløse.dk)  
